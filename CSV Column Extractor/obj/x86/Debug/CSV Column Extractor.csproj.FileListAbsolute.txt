@@ -7,3 +7,11 @@ c:\users\valency\documents\visual studio 2010\Projects\CSV Column Extractor\CSV 
 c:\users\valency\documents\visual studio 2010\Projects\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\valency\documents\visual studio 2010\Projects\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.exe
 c:\users\valency\documents\visual studio 2010\Projects\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.pdb
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.exe
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.pdb
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\bin\Debug\CSV Column Extractor.exe
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\bin\Debug\CSV Column Extractor.pdb
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV_Column_Extractor.Form1.resources
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV_Column_Extractor.Properties.Resources.resources
+C:\Users\Ye\Desktop\CSV Column Extractor\CSV Column Extractor\obj\x86\Debug\CSV Column Extractor.csproj.GenerateResource.Cache
